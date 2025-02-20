@@ -75,3 +75,13 @@ video{
     border-radius: 6px;
     background-color: rgb(32, 32, 32);
 }
+
+#email{
+    position: relative;
+    left: 17px;
+}
+
+#password{
+    position: relative;
+    left: 5px;
+}
