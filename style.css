@@ -57,6 +57,7 @@ button{
 nav {
     background-color: #333;
     position: fixed;
+    
     width: 100vw;
     top: 0;
 }
